@@ -1,0 +1,212 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+body {
+  background-image: url(imagenesJs/fondo3.jpg);
+}
+img {
+  max-width: 100%;
+}
+h1 {
+  color: beige;
+}
+
+.h2 {
+  text-align: center !important;
+}
+
+.h3 {
+  text-align: center !important;
+  padding-top: 1rem !important;
+  font-size: calc(1.3rem + 0.6vw) !important;
+}
+.titulo__Principal {
+  color: wheat;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.imagenes__Proyecto {
+  width: 100%;
+  height: 2.5rem;
+}
+.row {
+  background-color: white;
+  margin-top: 3rem !important;
+  margin-left: 4rem !important;
+  margin-right: 4rem !important;
+}
+.col-sm-3 img {
+  width: 80%;
+  height: 350px;
+  object-fit: cover;
+  margin-left: 2rem;
+  margin-top: 50px;
+}
+
+.fas {
+  font-size: 40px;
+  padding-right: 20px;
+  color: white;
+}
+.fab {
+  font-size: 1.5rem;
+}
+
+.color__1 {
+  color: blue;
+}
+.color__2 {
+  color: green;
+}
+.color__3 {
+  color: blueviolet;
+}
+.color__4 {
+  color: dodgerblue;
+}
+.d-flex {
+  margin-top: 2rem;
+}
+
+.me-2 {
+  margin-left: 4rem !important;
+}
+.powered {
+  color: white;
+}
+footer {
+  color: black;
+}
+.contenido {
+  justify-content: space-evenly !important;
+}
+
+.btn-dark {
+  margin-left: 1.3rem;
+  margin-top: 2rem;
+}
+
+.cart {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+  background: white;
+  margin-top: 3rem;
+}
+
+.car-img {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.producto-carrito {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#remove-product {
+  width: 100px;
+  height: 60px;
+  text-align: center;
+}
+
+.total {
+  font-weight: bold;
+  font-size: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.total-carrito {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.centrado {
+  text-align: center;
+}
+.pago {
+  align-items: center;
+  margin-top: 3rem;
+  margin-left: 47% !important;
+}
+.color {
+  background-color: aliceblue;
+  display: flex !important;
+  flex-direction: column !important;
+  width: 100%;
+}
+.formu {
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row1 {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+}
+
+#cvv {
+  width: 3rem !important;
+}
+
+.envio {
+  margin-right: 20px !important;
+}
+
+.contenedor {
+  width: 100%;
+  position: relative;
+  height: 100%;
+}
+.imagenesCarrusel {
+  width: 100%;
+  height: 20rem;
+  margin-top: 2rem;
+}
+
+.botonAtras,
+.botonAdelante {
+  font-size: 30px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: black;
+  text-align: center;
+  position: absolute;
+  color: white;
+}
+.botonAtras {
+  left: 2%;
+  top: calc(50%);
+}
+
+.botonAdelante {
+  right: 2%;
+  top: calc(50%);
+}
+
+.botonAtras:hover {
+  cursor: pointer;
+  transform: scale(1.2, 1.2);
+  transition: 2s;
+}
+
+.botonAdelante:hover {
+  cursor: pointer;
+  transform: scale(1.2, 1.2);
+  transition: 2s;
+}

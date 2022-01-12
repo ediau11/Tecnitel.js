@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Airpods",
+    "precio": 17000,
+    "imagen": "./styles/imagenesJs/airpodsJs.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Xiaomi Airdots",
+    "precio": 6000,
+    "imagen": "./styles/imagenesJs/airdots.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Samsumg Galaxy Fit",
+    "precio": 7000,
+    "imagen": "./styles/imagenesJs/GalaxyfitJs.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Samsumg Galaxy Watch",
+    "precio": 32000,
+    "imagen": "./styles/imagenesJs/GalaxyWatchJs.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Samsumg Galaxy S20",
+    "precio": 130000,
+    "imagen": "./styles/imagenesJs/galaxys20.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Samsumg Galaxy S20+",
+    "precio": 158000,
+    "imagen": "./styles/imagenesJs/Samsumgs20+Js.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Samsumg Galaxy Z Fold",
+    "precio": 230000,
+    "imagen": "./styles/imagenesJs/galaxyZFold.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Samsumg Galaxy A21s",
+    "precio": 40000,
+    "imagen": "./styles/imagenesJs/galaxyA21png.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "iPhone 9",
+    "precio": 90000,
+    "imagen": "./styles/imagenesJs/iphone9Js.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "iPhone X",
+    "precio": 180000,
+    "imagen": "./styles/imagenesJs/iphoneXJs.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "iPhone 11",
+    "precio": 250000,
+    "imagen": "./styles/imagenesJs/iphone11.png"
+  },
+  {
+    "id": 12,
+    "nombre": "iPhone 12",
+    "precio": 312000,
+    "imagen": "./styles/imagenesJs/iphone12.png"
+  }
+]
