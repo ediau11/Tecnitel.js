@@ -1,5 +1,5 @@
 let footer = $("footer").append(`
-      <div class="d-flex flex-wrap contenido align-items-center py-3 margin bg-dark"> <p class="col-md-4 mb-0 text-muted2 centradoNombre powered">&copy; Powered by Eduardo Arcila</p>
+      <div class="d-flex flex-wrap contenido align-items-center py-3 margin bg-dark colorNav"> <p class="col-md-4 mb-0 text-muted2 centradoNombre powered">&copy; Powered by Eduardo Arcila</p>
 
     <a href="https://www.facebook.com/" target="_blank"> <i class="fab fa-facebook-square color__1"></i></a> 
     <a href="https://web.whatsapp.com/" target="_blank"> <i class="fab fa-whatsapp color__2"></i></a>

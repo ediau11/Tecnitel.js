@@ -5,7 +5,22 @@
   list-style: none;
 }
 body {
-  background-image: url(imagenesJs/fondo3.jpg);
+  /* background-image: url(imagenesJs/fondo3.jpg); */
+  background-image: linear-gradient(
+    to left bottom,
+    #4c60ec,
+    #3754ca,
+    #2447a9,
+    #163a89,
+    #0c2d69,
+    #0c2d69,
+    #0c2d69,
+    #0c2d69,
+    #163a89,
+    #2447a9,
+    #3754ca,
+    #4c60ec
+  );
 }
 img {
   max-width: 100%;
@@ -79,7 +94,21 @@ h1 {
   color: white;
 }
 footer {
-  color: black;
+  background-image: linear-gradient(
+    to left bottom,
+    #4c60ec,
+    #7a7cf1,
+    #9d99f5,
+    #bdb6f9,
+    #dad5fc,
+    #dad5fc,
+    #dad5fc,
+    #dad5fc,
+    #bdb6f9,
+    #9d99f5,
+    #7a7cf1,
+    #4c60ec
+  );
 }
 .contenido {
   justify-content: space-evenly !important;
@@ -88,6 +117,8 @@ footer {
 .btn-dark {
   margin-left: 1.3rem;
   margin-top: 2rem;
+  background-color: #4c60ec !important;
+  border-color: none !important;
 }
 
 .cart {
@@ -209,4 +240,45 @@ footer {
   cursor: pointer;
   transform: scale(1.2, 1.2);
   transition: 2s;
+}
+
+.logo {
+  font-family: var(--bs-body-font-family) !important;
+  font-size: 2rem !important;
+  color: black !important;
+}
+.row {
+  background-image: linear-gradient(
+    to left bottom,
+    #4c60ec,
+    #7a7cf1,
+    #9d99f5,
+    #bdb6f9,
+    #dad5fc,
+    #dad5fc,
+    #dad5fc,
+    #dad5fc,
+    #bdb6f9,
+    #9d99f5,
+    #7a7cf1,
+    #4c60ec
+  );
+}
+
+.colorNav {
+  background-image: linear-gradient(
+    to left bottom,
+    #f4f5fd,
+    #d5d9fd,
+    #b7bdfb,
+    #99a1f8,
+    #7a85f4,
+    #7a85f4,
+    #7a85f4,
+    #7a85f4,
+    #99a1f8,
+    #b7bdfb,
+    #d5d9fd,
+    #f4f5fd
+  );
 }

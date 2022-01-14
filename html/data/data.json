@@ -3,13 +3,13 @@
     "id": 1,
     "nombre": "Airpods",
     "precio": 17000,
-    "imagen": "./styles/imagenesJs/airpodsJs.jpg"
+    "imagen": "./styles/imagenesJs/airpods.png"
   },
   {
     "id": 2,
     "nombre": "Xiaomi Airdots",
     "precio": 6000,
-    "imagen": "./styles/imagenesJs/airdots.jpg"
+    "imagen": "./styles/imagenesJs/airdots.png"
   },
   {
     "id": 3,
@@ -27,13 +27,13 @@
     "id": 5,
     "nombre": "Samsumg Galaxy S20",
     "precio": 130000,
-    "imagen": "./styles/imagenesJs/galaxys20.webp"
+    "imagen": "./styles/imagenesJs/galaxyS20.png"
   },
   {
     "id": 6,
     "nombre": "Samsumg Galaxy S20+",
     "precio": 158000,
-    "imagen": "./styles/imagenesJs/Samsumgs20+Js.jpg"
+    "imagen": "./styles/imagenesJs/s20.webp"
   },
   {
     "id": 7,
@@ -51,13 +51,13 @@
     "id": 9,
     "nombre": "iPhone 9",
     "precio": 90000,
-    "imagen": "./styles/imagenesJs/iphone9Js.jpg"
+    "imagen": "./styles/imagenesJs/iphone9Js2.png"
   },
   {
     "id": 10,
     "nombre": "iPhone X",
     "precio": 180000,
-    "imagen": "./styles/imagenesJs/iphoneXJs.jpg"
+    "imagen": "./styles/imagenesJs/iphoneXJs.png"
   },
   {
     "id": 11,
