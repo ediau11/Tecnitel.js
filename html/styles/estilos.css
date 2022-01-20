@@ -269,7 +269,7 @@ footer {
 }
 
 .btn-secondary {
-  background-color: slateblue !important;
+  background-color: #4c60ec !important;
 }
 .text-center {
   margin-top: 2rem;
@@ -277,4 +277,14 @@ footer {
 }
 .col-md-8 {
   display: contents;
+}
+
+.btn-lg {
+  background-color: #4c60ec !important;
+}
+
+.modalFormulario {
+  text-align: center !important;
+  background-color: white !important;
+  margin-top: 1rem !important;
 }
