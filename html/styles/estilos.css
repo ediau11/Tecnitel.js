@@ -288,3 +288,22 @@ footer {
   background-color: white !important;
   margin-top: 1rem !important;
 }
+#pagina404 {
+  text-align: center;
+  margin-top: 12rem;
+  background-image: linear-gradient(
+    to left bottom,
+    #051937,
+    #002c60,
+    #003f8c,
+    #0053bb,
+    #1267eb
+  );
+}
+
+.boton404 {
+  margin-top: 3rem;
+}
+.texto404 {
+  color: aliceblue;
+}

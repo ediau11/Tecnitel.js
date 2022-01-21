@@ -5,5 +5,5 @@ let navbar1 = $("#navbar")
   </div>`);
 
 let BarraTelefono = $("#modal").append(
-  `<h3> Para ventas telefonicas 0800 2322 4424 </h3>`
+  `<h4> Para ventas telefonicas 0800 2322 4424 </h4>`
 );
