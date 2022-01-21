@@ -1,6 +1,6 @@
 let navbar1 = $("#navbar")
   .append(` <div class="navbar colorNav navbar-dark container-fluid">
-          <a  class="navbar-brand logo" href="index.html"><img src= "./styles/imagenesJs/telefono-inteligente.png" >Tecnitel</a>
+          <a  class="navbar-brand logo" href="index.html"><img src= "./styles/imagenesJs/telefono-inteligente.png" alt="imagen Logo" >Tecnitel</a>
          <a href="#formulario"  type="button" class="btn btn-secondary">Contactanos!</a>
   </div>`);
 

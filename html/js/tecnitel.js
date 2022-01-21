@@ -17,7 +17,7 @@ const cargarProductos = (respuesta) => {
   productos = respuesta;
   productos.forEach((productos, indice) => {
     $("#container").append(
-      `<div class= col-sm-3 p-3 h2 h3 > <a href= ${productos.imagen}> <img class= aparecer src= "${productos.imagen}"</img> </a> <h2 id="aumentaLetra" class= h2>${productos.nombre} </h2> <h3 class= h3> Precio: ${productos.precio}
+      `<div class= col-sm-3 p-3 h2 h3 > <a href= ${productos.imagen}> <img class= aparecer alt="imagen de Producto" src= "${productos.imagen} "</img> </a> <h2 id="aumentaLetra" class= h2>${productos.nombre} </h2> <h3 class= h3> Precio: ${productos.precio}
     <a href="#cart" class="btn btn-dark addToCart" id="boton" onClick="abrirCarrito(${indice})">Agregar al carrito</a> </div> `
     );
   });

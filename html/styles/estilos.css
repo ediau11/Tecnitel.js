@@ -5,7 +5,6 @@
   list-style: none;
 }
 body {
-  /* background-image: url(imagenesJs/fondo3.jpg); */
   background-image: linear-gradient(
     to left bottom,
     #4c60ec,
@@ -25,10 +24,6 @@ body {
 img {
   max-width: 100%;
 }
-h1 {
-  color: beige;
-}
-
 .h2 {
   text-align: center !important;
 }
@@ -38,12 +33,7 @@ h1 {
   padding-top: 1rem !important;
   font-size: calc(1.3rem + 0.6vw) !important;
 }
-.titulo__Principal {
-  color: wheat;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-}
+
 .imagenes__Proyecto {
   width: 100%;
   height: 2.5rem;
@@ -125,7 +115,21 @@ footer {
   width: 80%;
   margin: auto;
   padding: 20px;
-  background: white;
+  background-image: linear-gradient(
+    to left bottom,
+    #4c60ec,
+    #7a7cf1,
+    #9d99f5,
+    #bdb6f9,
+    #dad5fc,
+    #dad5fc,
+    #dad5fc,
+    #dad5fc,
+    #bdb6f9,
+    #9d99f5,
+    #7a7cf1,
+    #4c60ec
+  );
   margin-top: 3rem;
 }
 
@@ -206,7 +210,7 @@ footer {
 
 .logo {
   font-family: var(--bs-body-font-family) !important;
-  font-size: 2rem !important;
+  font-size: 1.8rem !important;
   color: black !important;
 }
 .row {
@@ -287,6 +291,21 @@ footer {
   text-align: center !important;
   background-color: white !important;
   margin-top: 1rem !important;
+  background-image: linear-gradient(
+    to left bottom,
+    #f4f5fd,
+    #d5d9fd,
+    #b7bdfb,
+    #99a1f8,
+    #7a85f4,
+    #7a85f4,
+    #7a85f4,
+    #7a85f4,
+    #99a1f8,
+    #b7bdfb,
+    #d5d9fd,
+    #f4f5fd
+  );
 }
 #pagina404 {
   text-align: center;
