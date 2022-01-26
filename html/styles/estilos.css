@@ -326,3 +326,8 @@ footer {
 .texto404 {
   color: aliceblue;
 }
+
+.fas {
+  color: black !important;
+  font-size: 15px !important;
+}

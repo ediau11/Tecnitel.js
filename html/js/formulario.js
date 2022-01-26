@@ -5,7 +5,7 @@ let formu = $("#formulario").append(`<div class="container">
             <form>
                 <fieldset>
                     <legend class="text-center header fondoContacto ">  
-                ¿Quieres saber más de nosotros? ¡Contáctanos! 
+                <h2>¿Quieres saber más de nosotros? ¡Contáctanos!</h2>
                     </legend>
                 
                     <div class="form-group">
