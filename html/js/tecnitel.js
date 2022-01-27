@@ -158,7 +158,7 @@ const dibujarFormu = () => {
 const finalizar = () => {
   const compraRealizada = document.getElementById("name").value;
   modalCarrito.innerHTML = "";
-  const ultimoMensaje = `<h2> Muchas gracias por tu compra ${compraRealizada} recibiras tu pedido en las proximas 48h </h2>`;
+  const ultimoMensaje = `<h2 class= "centrado"> Muchas gracias por tu compra ${compraRealizada} recibiras tu pedido en las proximas 48h </h2>`;
   modalCarrito.innerHTML = ultimoMensaje;
 };
 
